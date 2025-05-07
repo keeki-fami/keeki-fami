@@ -11,13 +11,13 @@
   
 
 # skills
-- 言語
+## 言語
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=swift,python,c,java,html,css,arduino" />  
 
 ※開発経験、自信、使用頻度順  
+<br>
 
-
-- 環境
+## 環境
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=eclipse,visualstudio,vscode" />  
 <br>
 
