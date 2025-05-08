@@ -43,4 +43,4 @@
 - 🖥️AtCoder（Highest778　現在750...）
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeki-fami)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keeki-fami&layout=compact)
