@@ -21,7 +21,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=eclipse,visualstudio,vscode" />  
 <br>
 
-#興味
+#　興味
 - マイコン（をはじめとするロボット分野）
 - OS（現在Linuxカーネルをいじっている）
 - モバイルアプリ開発（主にiOS）
