@@ -38,7 +38,12 @@
 目標金額を設定できる家計簿アプリ<br>
 節約できない生活とこれでさよなら
 <br>
+## #2【Web】ポートフォリオサイト（Fami's COFFEE）
+<a href="https://keeki-fami.github.io">fami's COFFEE</a><br>
+ポートフォリオサイト<br>
 <br>
+## #3【iOS】素数集め
+Coming Soon
 
 # 趣味
 - 🎧音楽を聴く（Mr.Children, Perfume, L↔︎R, JUDY AND MARY etc...）
