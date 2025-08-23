@@ -15,7 +15,7 @@
 
 # skills
 ## 言語
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,python,javascript,c,java,html,css,arduino" />  
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,python,javascript,c,java,html,css,arduino,RxSwift" />  
 
 ※開発経験、自信、使用頻度順  
 <br>
