@@ -7,7 +7,7 @@
 - 学部：機械系→情報系へ転部
 - 歴：情報系１年目<br>
 　　
-# 🔗リンク先
+# 🔗myPage
 <a href="https://keeki-fami.github.io">fami's COFFEE</a><br>
 
 <br>
@@ -50,7 +50,7 @@ Coming Soon
 - 🎧音楽を聴く（Mr.Children, Perfume, L↔︎R, JUDY AND MARY etc...）
 - 🎹ピアノ（ミスチルの伴奏など）
 - 🏓卓球（F粘着B変化表　→ F粘着B裏）
-- 🖥️AtCoder（Highest778　現在763）
+- 🖥️AtCoder（Algo:茶）
 <br>
 
 update : 2025/5/18
