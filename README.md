@@ -29,8 +29,6 @@
 - 🤖マイコン（をはじめとするロボット分野）
 - 🖲️OS（現在Linuxカーネルをいじっている）
 - 🍎モバイルアプリ開発（主にiOS）
-- 💻Webアプリケーション（主にフロントエンド？を学習している）
-- 🛜サーバ（認証管理のために現在進行形着手お勉強）
 <br>
 
 # 制作物（App）
@@ -53,6 +51,6 @@ Coming Soon
 - 🖥️AtCoder（Algo:茶）
 <br>
 
-update : 2025/5/18
+update : 2025/8/30
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keeki-fami&layout=compact)
