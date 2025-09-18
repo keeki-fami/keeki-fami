@@ -42,7 +42,14 @@
 ポートフォリオサイト<br>
 <br>
 ## #3【iOS】素数集め
-Coming Soon
+https://github.com/keeki-fami/sosuu  
+素数を集めて図鑑を完成させよう（大型アップデートしたい）
+<br>
+
+## #4【iOS】Coupon Holder
+Coming soon...
+アプリで無料クーポンを管理<br>
+もう、期限切れクーポンは生み出さない🫵😡
 
 # 趣味
 - 🎧音楽を聴く（Mr.Children, Perfume, L↔︎R, JUDY AND MARY etc...）
