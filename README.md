@@ -6,12 +6,16 @@
 - 大学生
 - 学部：機械系→情報系へ転部
 - 歴：情報系１年目<br>
-　　
-# 🔗myPage
-<a href="https://keeki-fami.github.io">fami's COFFEE</a><br>
 
+# 興味
+- モバイルアプリ(iOS)
+- カーネルハック
+- マイコン
 <br>
-  
+
+# 🔗myPage
+<a href="https://keeki-fami.github.io">fami's COFFEE</a>
+<br>
 
 # skills
 ## 言語
@@ -23,12 +27,6 @@
 ## 環境
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=eclipse,visualstudio,vscode" />  
 ※XCode,Spyderの使用経験もあり
-<br>
-
-# 興味
-- 🤖マイコン（をはじめとするロボット分野）
-- 🖲️OS（現在Linuxカーネルをいじっている）
-- 🍎モバイルアプリ開発（主にiOS）
 <br>
 
 # 制作物（App）
