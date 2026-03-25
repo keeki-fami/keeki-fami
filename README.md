@@ -9,8 +9,7 @@
 
 # 興味
 - モバイルアプリ(iOS)
-- カーネルハック
-- マイコン
+- 電子工作
 <br>
 
 # 🔗myPage
@@ -22,11 +21,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,python,javascript,c,java,html,css,arduino,RxSwift" />  
 
 ※開発経験、自信、使用頻度順  
-<br>
-
-## 環境
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=eclipse,visualstudio,vscode" />  
-※XCode,Spyderの使用経験もあり
 <br>
 
 # 制作物（App）
@@ -45,9 +39,8 @@ https://github.com/keeki-fami/sosuu
 <br>
 
 ## #4【iOS】Coupon Holder
-Coming soon...
 アプリで無料クーポンを管理<br>
-もう、期限切れクーポンは生み出さない🫵😡
+
 
 # 趣味
 - 🎧音楽を聴く（Mr.Children, Perfume, L↔︎R, JUDY AND MARY etc...）
@@ -56,6 +49,6 @@ Coming soon...
 - 🖥️AtCoder（Algo:茶）
 <br>
 
-update : 2025/8/30
+update : 2026/3/25
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keeki-fami&layout=compact)
