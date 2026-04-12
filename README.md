@@ -15,6 +15,3 @@
 - バックエンド全般
 - 他OSのモバイルアプリ開発
 <br> などなど
-
-# 🔗
-<a href="https://keeki-fami.github.io">portfolio</a>
