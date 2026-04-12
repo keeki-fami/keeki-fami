@@ -5,50 +5,16 @@
 # about me
 - 大学生
 - 学部：機械系→情報系へ転部
-- 歴：情報系１年目<br>
+- 歴：情報系２年目<br>
 
-# 興味
+# good
 - モバイルアプリ(iOS)
 - 電子工作
-<br>
+# want to try
+- processing
+- バックエンド全般
+- 他OSのモバイルアプリ開発
+<br> などなど
 
-# 🔗myPage
-<a href="https://keeki-fami.github.io">fami's COFFEE</a>
-<br>
-
-# skills
-## 言語
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,python,javascript,c,java,html,css,arduino,RxSwift" />  
-
-※開発経験、自信、使用頻度順  
-<br>
-
-# 制作物（App）
-## #1【iOS】Coilin - 向上心を刺激するお小遣い帳
-<a href="https://apps.apple.com/jp/app/coilin-%E5%90%91%E4%B8%8A%E5%BF%83%E3%82%92%E5%88%BA%E6%BF%80%E3%81%99%E3%82%8B%E3%81%8A%E5%B0%8F%E9%81%A3%E3%81%84%E5%B8%B3/id6743780127">App Store</a>  
-目標金額を設定できる家計簿アプリ<br>
-節約できない生活とこれでさよなら
-<br>
-## #2【Web】ポートフォリオサイト（Fami's COFFEE）
-<a href="https://keeki-fami.github.io">fami's COFFEE</a><br>
-ポートフォリオサイト<br>
-<br>
-## #3【iOS】素数集め
-https://github.com/keeki-fami/sosuu  
-素数を集めて図鑑を完成させよう（大型アップデートしたい）
-<br>
-
-## #4【iOS】Coupon Holder
-アプリで無料クーポンを管理<br>
-
-
-# 趣味
-- 🎧音楽を聴く（Mr.Children, Perfume, L↔︎R, JUDY AND MARY etc...）
-- 🎹ピアノ（ミスチルの伴奏など）
-- 🏓卓球（F粘着B変化表　→ F粘着B裏）
-- 🖥️AtCoder（Algo:茶）
-<br>
-
-update : 2026/3/25
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keeki-fami&layout=compact)
+# 🔗
+<a href="https://keeki-fami.github.io">portfolio</a>
