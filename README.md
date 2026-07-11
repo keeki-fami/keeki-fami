@@ -1,17 +1,17 @@
 # 🖐️HELLO!
-こんにちは！これはkeeki-famiのページです。
+My name is keeki.
 <br>
 　　
 # about me
-- 大学生
-- 学部：機械系→情報系へ転部
-- 歴：情報系２年目<br>
+- Computer Science student.
+- Language.Programming : Swift / C / Rust
+- Language.Real : Japanese
 
 # good
-- モバイルアプリ(iOS)
-- 電子工作
+- Mobile App(iOS)
+- Electronic Work
 # want to try
 - processing
-- バックエンド全般
-- 他OSのモバイルアプリ開発
-<br> などなど
+- Server side
+- OS Development
+<br> etc...
