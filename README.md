@@ -1,6 +1,8 @@
 # 🖐️HELLO!
 My name is keeki.<br>
 ☕️https://keeki-fami.github.io
+note - https://note.com/towa57035260
+Zenn - https://zenn.dev/keeki
 <br>
 　　
 # about me
