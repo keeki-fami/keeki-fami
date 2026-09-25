@@ -1,1 +1,1 @@
-- [home](https://keeki-fami.github.io)
+[home](https://keeki-fami.github.io)
