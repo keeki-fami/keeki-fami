@@ -16,6 +16,15 @@
 	</a>
 </p>
 
+<h1 align="center"> Interest </h1> <br>
+<p align="center">
+    Swift
+    iOS mobile app development
+    electronic work
+    competitive programming
+    hardware security
+<p>
+
 <h1 align="center"> Skills </h1> <br>
 <p align="center">
   <a href="https://skillicons.dev">
