@@ -18,11 +18,12 @@
 
 <h1 align="center"> Interest </h1> <br>
 <p align="center">
-    Swift
-    iOS mobile app development
-    electronic work
-    competitive programming
-    hardware security
+    Swift <br>
+    iOS mobile app development <br>
+    electronic work <br>
+    competitive programming <br>
+    hardware security <br>
+    UI/UX <br>
 <p>
 
 <h1 align="center"> Skills </h1> <br>
