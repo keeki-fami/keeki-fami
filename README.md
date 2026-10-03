@@ -37,9 +37,9 @@
 
 |name|description|platform|
 |---|---|---|
-|<a href="https://github.com/keeki-fami/Ebbinghaus"><img src="./images/ebbinghaus-icon.png" width="80"></a><br>Ebbinghaus|Review your study materials at the right time, track your learning progress, and build lasting memories.Ebbinghaus helps you study smarter with spaced repetition.|iOS 18+|
-|<a href="https://github.com/keeki-fami/coupon"><img src="./images/coupon-icon.png" width="80"></a><br>Coupon Holder|Keep your coupons organized, track their expiration dates, and get reminded before they expire. Coupon Holder makes it easy to manage your coupons in one place, so you can use them before it's too late.|iOS 17.6+|
-|<a href="https://github.com/keeki-fami/MatrixPractice"><img src="./images/matrixpractice.png" width="80"></a><br>無限行列計算|無限行列計算 generates an unlimited number of matrix calculation problems, allowing you to practice as much as you want.|iOS 26.1+|
+|<a href="https://github.com/keeki-fami/Ebbinghaus"><img src="./images/ebbinghaus-icon.png" width="80"></a><br><p align=center style="font-size: 10px;">Ebbinghaus</p>|Review your study materials at the right time, track your learning progress, and build lasting memories.Ebbinghaus helps you study smarter with spaced repetition.|iOS 18+|
+|<a href="https://github.com/keeki-fami/coupon"><img src="./images/coupon-icon.png" width="80"></a><br><p align=center style="font-size: 10px;">Coupon Holder</p>|Keep your coupons organized, track their expiration dates, and get reminded before they expire. Coupon Holder makes it easy to manage your coupons in one place, so you can use them before it's too late.|iOS 17.6+|
+|<a href="https://github.com/keeki-fami/MatrixPractice"><img src="./images/matrixpractice.png" width="80"></a><br><p align=center style="font-size: 10px;">無限行列計算<p>|無限行列計算 generates an unlimited number of matrix calculation problems, allowing you to practice as much as you want.|iOS 26.1+|
 
 <h1 align="center"> Contacts </h1> <br>
 
