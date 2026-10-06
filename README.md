@@ -29,7 +29,7 @@
 <h1 align="center"> Skills </h1> <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,rust,c,python" />
+    <img src="https://skillicons.dev/icons?i=swift,rust,c" />
   </a>
 </p>
 
