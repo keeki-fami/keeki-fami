@@ -45,3 +45,6 @@
 
 - Email: keekiapp.feedback@gmail.com
 - X : [@Keeki_factory](https://x.com/keeki_factory?s=11)
+
+[![Rating](https://badgen.org/img/atcoder/keeki/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/keeki?contestType=algo)
+<!-- <img src="https://komarev.com/ghpvc/?username=keeki-fami"/> -->
