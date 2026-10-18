@@ -46,8 +46,10 @@
 - Email: keekiapp.feedback@gmail.com
 - X : [@Keeki_factory](https://x.com/keeki_factory?s=11)
 
-<a href="https://atcoder.jp/users/keeki?contestType=algo"><img src="https://badgen.org/img/atcoder/keeki/rating/algorithm?style=plastic" alt="Rating" /></a>
-<a href="https://zenn.dev/keeki"><img src="https://badgen.org/img/zenn/keeki/articles?style=plastic" alt="Articles" /></a>
 <h1 align="center"> Conclusion </h1> <br>
 <p align=center><img src="images/tokei.PNG" width=500><p>
+<p align=center>
+<a href="https://atcoder.jp/users/keeki?contestType=algo"><img src="https://badgen.org/img/atcoder/keeki/rating/algorithm?style=plastic" alt="Rating" /></a>
+<a href="https://zenn.dev/keeki"><img src="https://badgen.org/img/zenn/keeki/articles?style=plastic" alt="Articles" /></a>
+</p>
 <!-- <img src="https://komarev.com/ghpvc/?username=keeki-fami"/> -->
