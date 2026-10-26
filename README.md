@@ -47,7 +47,11 @@
 - X : [@Keeki_factory](https://x.com/keeki_factory?s=11)
 
 <h1 align="center"> Conclusion </h1> <br>
-<p align=center><img src="images/tokei.PNG" width=500><p>
+<p align=center>
+<a href="https://note.com/towa57035260/n/nca2135d3dd38">
+<img src="images/tokei.PNG" width=500>
+</a>
+<p>
 <p align=center>
 <a href="https://atcoder.jp/users/keeki?contestType=algo"><img src="https://badgen.org/img/atcoder/keeki/rating/algorithm?style=plastic" alt="Rating" /></a>
 <a href="https://zenn.dev/keeki"><img src="https://badgen.org/img/zenn/keeki/articles?style=plastic" alt="Articles" /></a>
